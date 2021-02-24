@@ -1,5 +1,7 @@
 [посмотреть проект](https://nbviewer.jupyter.org/github/IlyaMoshonkin/ds_projects/blob/master/steel_temperature/steel_temperature.ipynb)
 
+## Предсказание температуры стали
+
 ### Данные 
 - `data_arc.csv` — данные об электродах;
 - `data_bulk.csv` — данные о подаче сыпучих материалов (объём);

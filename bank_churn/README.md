@@ -1,5 +1,7 @@
 [посмотреть проект](https://nbviewer.jupyter.org/github/IlyaMoshonkin/ds_projects/blob/master/bank_churn/bank_churn.ipynb)
 
+## Отток клиентов банка
+
 ### Данные 
 - RowNumber — индекс строки в данных
 - CustomerId — уникальный идентификатор клиента
