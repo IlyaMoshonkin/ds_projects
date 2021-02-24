@@ -1,3 +1,5 @@
+[посмотреть проект](https://nbviewer.jupyter.org/github/IlyaMoshonkin/ds_projects/blob/master/face_age_define/face_age_define.ipynb)
+
 ### Данные 
 - file_name — имя файла с изображением объекта
 - real_age — фактический возраст объекта
