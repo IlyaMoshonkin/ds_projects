@@ -1,6 +1,6 @@
 [посмотреть проект](https://nbviewer.jupyter.org/github/IlyaMoshonkin/ds_projects/blob/master/taxi_timeseries/taxi_timeseries.ipynb)
 
-## Предсказание количества заказов такси (timeseries)
+## Предсказание количества заказов такси (TS)
 
 ### Данные 
 `datetime` - дата и время заказа  
