@@ -1,4 +1,4 @@
-[посмотреть проект](https://nbviewer.jupyter.org/github/IlyaMoshonkin/ds_projects/blob/master/bank_churn/select_oilwells.ipynb)
+[посмотреть проект](https://nbviewer.jupyter.org/github/IlyaMoshonkin/ds_projects/blob/master/select_oilwells/select_oilwells.ipynb)
 
 ## Выбор нефтяных скважин (ML in business)
 
